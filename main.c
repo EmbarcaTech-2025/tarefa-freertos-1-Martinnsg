@@ -7,8 +7,8 @@
 // Definição dos pinos
 #define LED_RED_PIN     11
 #define LED_GREEN_PIN   12
-#define LED_BLUE_PIN    21
-#define BUZZER_PIN      21
+#define LED_BLUE_PIN    13
+
 #define BUTTON_A_PIN    5
 #define BUTTON_B_PIN    6
 
