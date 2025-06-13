@@ -27,7 +27,7 @@ message("FreeRTOS Kernel located in ${FREERTOS_PATH}")
 
 # Import those libraries
 include(pico_sdk_import.cmake)
-include(${FREERTOS_PATH}/portable/ThirdParty/GCC/RP2040/FreeRTOS_Kernel_import.cmake)
+#include(${FREERTOS_PATH}/portable/ThirdParty/GCC/RP2040/FreeRTOS_Kernel_import.cmake)
 
 # Define project
 project(embarcatech-freertos-tarefa-1 C CXX ASM)
